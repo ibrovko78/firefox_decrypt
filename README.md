@@ -1,4 +1,4 @@
-Скопируйте профиль пользователя  mozilla firefox из c:\Users\sgribanov\AppData\Roaming\Mozilla\Firefox\Profiles на машину с линукс, запустите скрипт по инструкци
+Скопируйте профиль пользователя  mozilla firefox из c:\Users\vvasya\AppData\Roaming\Mozilla\Firefox\Profiles на машину с линукс, запустите скрипт по инструкци
 
 ### Firefox Decrypt
 
