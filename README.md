@@ -1,3 +1,5 @@
+Скопируйте профиль пользователя  mozilla firefox из c:\Users\sgribanov\AppData\Roaming\Mozilla\Firefox\Profiles на машину с линукс, запустите скрипт по инструкци
+
 ### Firefox Decrypt
 
 ![GitHub Actions status](https://github.com/unode/firefox_decrypt/actions/workflows/main.yml/badge.svg)
